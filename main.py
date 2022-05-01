@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is a sample Python script.
 
 # Press Shift+F10 to execute it or replace it with your code.
@@ -14,3 +15,18 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+=======
+
+
+
+def print_hi(name):
+
+    print(f'Hi, {name}')  # Press Ctrl+F8 to toggle the breakpoint.
+
+
+
+if __name__ == '__main__':
+    print_hi('PyCharm')
+
+
+>>>>>>> Initial commit
