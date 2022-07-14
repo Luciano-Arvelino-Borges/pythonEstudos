@@ -12,3 +12,6 @@ print('O produto entre {} e {} é {}.'.format(numero1, numero2, produto))
 print('O quociente entre {} e {} é {}.'.format(numero1, numero2, quociente))
 print('O quociente inteiro entre {} e {} é {}.'.format(numero1, numero2, quocienteInteiro))
 print('O resto da divisão entre {} e {} é {}.'.format(numero1, numero2, modulo))
+
+
+
