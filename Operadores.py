@@ -6,9 +6,10 @@ produto = numero1 * numero2
 quociente = numero1 / numero2
 quocienteInteiro = numero1 // numero2
 modulo = numero1 % numero2
-print('A soma entre {} e {} é {}.'.format(numero1, numero2, soma))
-print('A diferença entre {} e {} é {}.'.format(numero1, numero2, diferenca))
-print('O produto entre {} e {} é {}.'.format(numero1, numero2, produto))
-print('O quociente entre {} e {} é {}.'.format(numero1, numero2, quociente))
-print('O quociente inteiro entre {} e {} é {}.'.format(numero1, numero2, quocienteInteiro))
-print('O resto da divisão entre {} e {} é {}.'.format(numero1, numero2, modulo))
+print(f'A soma entre {numero1} e {numero2} é {soma}.')
+print(f'A diferença entre {numero1} e {numero2} é {diferenca}.')
+print(f'O produto entre {numero1} e {numero2} é {produto}.')
+print(f'O quociente entre {numero1} e {numero2} é {quociente}.')
+print(f'O quociente inteiro entre {numero1} e {numero2} é {quocienteInteiro}.')
+print(f'O resto da divisão entre {numero1} e {numero2} é {modulo}.')
+print(type(modulo))
