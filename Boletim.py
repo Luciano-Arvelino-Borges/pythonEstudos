@@ -11,4 +11,4 @@ print(f'Nome: {nome}; Telefone: {tel}; Série: {serie}')
 if media >= 7:
     print(f'A média do aluno {nome} é {media}. APROVADO!')
 else:
-    print(f'A média do aluno {nome} é {media}. REPROVADO!')
+    print(f'A média do aluno {nome} é {media}. REPROVADO')
