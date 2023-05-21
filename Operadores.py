@@ -7,6 +7,8 @@ quociente = numero1 / numero2
 quocienteInteiro = numero1 // numero2
 modulo = numero1 % numero2
 potencia = numero1**numero2
+raizEnesima = numero1 **(1/numero2)
+
 print(f'A soma entre {numero1} e {numero2} é {soma}.')
 print(f'A diferença entre {numero1} e {numero2} é {diferenca}.')
 print(f'O produto entre {numero1} e {numero2} é {produto}.')
@@ -14,4 +16,5 @@ print(f'O quociente entre {numero1} e {numero2} é {quociente}.')
 print(f'O quociente inteiro entre {numero1} e {numero2} é {quocienteInteiro}.')
 print(f'O resto da divisão entre {numero1} e {numero2} é {modulo}.')
 print(f'A potência de {numero1} elevado ao {numero2} é {potencia}')
+print(f'A raiz de {numero1} com índice {numero2} é {raizEnesima}.')
 
